@@ -3,7 +3,7 @@ Private placement plan:
 Private placement address:
 0.3U————TLgcVrCgJGMNhe4QcrZUGCrChtq6yoi1gd
 0.6U————TSg6nG7iGLyVtScXWD96bZ2opVG2xMMqDS
-0.7U————TU63tPwbLwJ8fDbHz7ZeEUT54RmhvXQhHZ
+0.9U————TU63tPwbLwJ8fDbHz7ZeEUT54RmhvXQhHZ
 
 
 Private placement cycle:
@@ -15,7 +15,7 @@ Private placement cycle:
 私募地址：
 0.3U————TLgcVrCgJGMNhe4QcrZUGCrChtq6yoi1gd
 0.6U————TSg6nG7iGLyVtScXWD96bZ2opVG2xMMqDS
-0.7U————TU63tPwbLwJ8fDbHz7ZeEUT54RmhvXQhHZ
+0.9U————TU63tPwbLwJ8fDbHz7ZeEUT54RmhvXQhHZ
 
 私募周期：
 
