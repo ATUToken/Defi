@@ -6,6 +6,8 @@ Innovative ATU technology enthusiast. This group of young fighters decided to ap
 
 And integrate information services to lead the application of the blockchain industry and the community of human destiny, and contribute to the development of the blockchain application industry strength.
 
+Contract address: TVvBnEpFdoAh67KjcdyBu9rV4FbSxAMRLG
+
 Project release address: https://github.com/ATUToken/Defi
 
 Project Telegram: ATU Token
@@ -18,6 +20,8 @@ Project mail: atutoken@hotmail.com
 创新精神的ATU技术爱好者。这群年轻斗士在对ATU技术标准的研发过程中，决定将区块链金融技术落地应用，
 
 并将信息服务融为一体，从而引领区块链行业与人类命运共同体的应用结合，为区块链应用行业发展贡献一份力量。
+
+合约地址：TVvBnEpFdoAh67KjcdyBu9rV4FbSxAMRLG
 
 项目发布地址：https://github.com/ATUToken/Defi
 
