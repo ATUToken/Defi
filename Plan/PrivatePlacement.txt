@@ -13,9 +13,9 @@ Private placement cycle:
 私募方案：
 
 私募地址：
-0.3U————TLgcVrCgJGMNhe4QcrZUGCrChtq6yoi1gd
-0.6U————TSg6nG7iGLyVtScXWD96bZ2opVG2xMMqDS
-0.9U————TU63tPwbLwJ8fDbHz7ZeEUT54RmhvXQhHZ
+8w ATU————TLgcVrCgJGMNhe4QcrZUGCrChtq6yoi1gd
+80w ATU————TSg6nG7iGLyVtScXWD96bZ2opVG2xMMqDS
+100w ATU————TU63tPwbLwJ8fDbHz7ZeEUT54RmhvXQhHZ
 
 私募周期：
 
