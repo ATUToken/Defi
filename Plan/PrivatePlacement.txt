@@ -1,4 +1,5 @@
 Private placement plan:
+When you put TRX or USDT into any officially announced legal private placement address, the ATU will be converted to you at the real-time market price from the corresponding private placement address. When the ATU in any private placement address becomes zero, all coins in the current address, such as TRX, USDT, DOGE, etc., will be converted into TRX to build a liquidity pool at the current address.
 
 Private placement address:
 80K ATU————TLgcVrCgJGMNhe4QcrZUGCrChtq6yoi1gd
@@ -7,10 +8,12 @@ Private placement address:
 
 
 Private placement cycle:
+All ATUs of any address have been privately sold, and the private sale of the current address ends.
 
 ——————————————————————————————————————————————————————————————————
 
 私募方案：
+当您把TRX或USDT打入任何由官方公布的合法私募地址，将会从对应的私募地址按实时市场价格折算ATU给您。当任一私募地址中的ATU变为0时，当前地址中所有币，如：TRX、USDT、DOGE等将转化成TRX在当前地址建流动池。
 
 私募地址：
 8w ATU————TLgcVrCgJGMNhe4QcrZUGCrChtq6yoi1gd
@@ -18,4 +21,4 @@ Private placement cycle:
 100w ATU————TU63tPwbLwJ8fDbHz7ZeEUT54RmhvXQhHZ
 
 私募周期：
-
+任一地址的ATU全部被私募完，当前地址的私募活动即结束。
