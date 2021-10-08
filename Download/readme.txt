@@ -19,3 +19,4 @@ Suggested Token Wallet:
 
 4. BitKeep: https://bitkeep.com
 
+注意：请用普通浏览器打开以上链接。
