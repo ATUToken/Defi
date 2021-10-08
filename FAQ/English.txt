@@ -1,1 +1,15 @@
-1、
+ATU answers users’ concerns:
+
+1. Can the liquidity pool be officially launched after the private placement?
+Answer: ATU has established and announced the addresses of the private equity pools from the beginning when it is open to the public, and at the same time accepts public supervision. Each private placement address is a step-by-step private placement, and each private placement is completed and a pool is immediately converted into a liquidity pool.
+
+2. Will the ATU technical team retain coins or manipulate the direction of transactions?
+Answer: ATU has announced the source code of the contract at the beginning of the establishment of the project for public review. Therefore, there is no backdoor in the code or manipulation of the transaction flow. As for the issue of currency retention, the ATU Defi Working Group promised that it will never retain currency privately, and that the team and public users will follow market rules to hold currency.
+
+3. Why is ATU trustworthy?
+Answer: ATU has strongly implemented the concept of "decentralization" since its creation, and created a management system that does not require DAPP (DAPP is actually another centralized management tool that needs to be maintained by the project operation team). It is purely based on the rules of the chain. project.
+Including transactions, transfers, rewards, levels and other systems, everything is done directly on the chain, no one can interfere. The team pioneered a fair and open blockchain project without DAPP intervention.
+
+
+
+ATU team
