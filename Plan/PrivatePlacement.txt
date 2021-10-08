@@ -1,9 +1,9 @@
 Private placement plan:
 
 Private placement address:
-0.3U————TLgcVrCgJGMNhe4QcrZUGCrChtq6yoi1gd
-0.6U————TSg6nG7iGLyVtScXWD96bZ2opVG2xMMqDS
-0.9U————TU63tPwbLwJ8fDbHz7ZeEUT54RmhvXQhHZ
+80K ATU————TLgcVrCgJGMNhe4QcrZUGCrChtq6yoi1gd
+800K ATU————TSg6nG7iGLyVtScXWD96bZ2opVG2xMMqDS
+1000K ATU————TU63tPwbLwJ8fDbHz7ZeEUT54RmhvXQhHZQhHZ
 
 
 Private placement cycle:
